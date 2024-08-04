@@ -1,4 +1,4 @@
-A Mac OS theme for ubuntu and other linux distros with apt package manager. Create your regular machine to most elegant looks!!!😎
+A Mac OS theme for ubuntu and other linux distros with apt package manager. Make your regular machine to most elegant looks!!!😎
 
 **Install Dependencies:**
    ```bash
